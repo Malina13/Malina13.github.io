@@ -25,8 +25,6 @@
           <div class="cover-container">
   
             <div class="inner cover">
-             <div class="inner cover">
-            
               <div id="text_col">
                 <h1 class="cover-heading">Malina Brancalioni</h1>
                 <div>
