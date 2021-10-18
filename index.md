@@ -26,7 +26,7 @@
   
             <div class="inner cover">
               <div id="picture_col">
-                <img src="malina.jpeg"  alt="Profile picture" class="img-rounded" width="500" height="600">
+                <img src="https://drive.google.com/file/d/1IbW6RBUPEeoHGqNG07mAMs8BgI018rZA/view?usp=sharing"  alt="Profile picture" class="img-rounded" width="500" height="600">
               </div>
               <div id="text_col">
                 <h1 class="cover-heading">Malina Brancalioni</h1>
