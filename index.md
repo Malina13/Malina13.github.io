@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, intial-scale=1.0">
+    <title>Hello!</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" href="favicon.ico">
 
-You can use the [editor on GitHub](https://github.com/Malina13/Malina13.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+    <!-- Font Awesome CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+  
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+</head>
 
-### Markdown
+<body>
+    <div class="site-wrapper">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Malina13/Malina13.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+        <div class="site-wrapper-inner">
+  
+          <div class="cover-container">
+  
+            <div class="inner cover">
+              <div id="picture_col">
+                <img src="malina.jpeg"  alt="Profile picture" class="img-rounded" width="500" height="600">
+              </div>
+              <div id="text_col">
+                <h1 class="cover-heading">Malina Brancalioni</h1>
+                <div>
+                  <a target="_blank" class="btn btn-default" href="https://www.instagram.com/malina_elenna/"><i class="fa fa-instagram fa-2x"></i></a>
+                  <a target="_blank" class="btn btn-default" href="https://www.facebook.com/malina.elena.9/"><i class="fa fa-facebook fa-2x"></i></a>
+                </div>
+              </div>
+            </div>
+  
+            <div class="mastfoot">
+              <div class="inner">
+                <p>&copy; 2021 Malina Brancalioni</p>
+              </div>
+            </div>
+  
+          </div>
+  
+        </div>
+  
+      </div>
+  
+</body>
+</html>
